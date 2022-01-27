@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://i.giphy.com/media/pi9gQ5MSYMRHB5sQsx/200w.webp" height="100" alt="lightning" align="center">
+</p>
 <h2 align="center">A little about me</h2>
 
 <p><em>I am fully immersed in full stack software development with a passion for science, technology, and the extraordinary systems of the world. Specifically the space industry, autonomous driving, and the metaverse. I am also looking for a job 💼</em></p>
