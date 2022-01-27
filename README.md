@@ -46,6 +46,6 @@ My preferred **tech stacks**, with work to match:
 <h3 align="center"> Connect with Me at </h3>
 
 <p align="center">
-<a href="mailto:1sebastian1sosa1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-devorein00@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="mailto:1sebastian1sosa1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-1sebastian1sosa1@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-SebastianS%236081-blue?style=flat&logo=discord"></a>
 </p>
