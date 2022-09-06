@@ -15,10 +15,10 @@ My preferred **tech stacks**, with work to match:
 - AI/ML: PyTorch, HuggingFace ([Venato Obesity AI](https://github.com/CakeCrusher/Venato-ai))
 
 **Current** activity
-- 🔭 I’m currently working on [GiveSpace site](https://github.com/mhoobler/Givespace-site)
+- 🔭 I’m currently working on [Kuoly](https://github.com/CakeCrusher/kuoly-client)
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on ambitious projects within the space industry, autonomous driving, and the metaverse
-- 💬 Ask me about software applications within science and technology
+- 💬 Ask me about software applications emerging industries
 
 
 <p align="center">
