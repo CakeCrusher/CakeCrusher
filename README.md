@@ -15,10 +15,10 @@ My preferred **tech stacks**, with work to match:
 - AI/ML: PyTorch, HuggingFace ([Venato Obesity AI](https://github.com/CakeCrusher/Venato-ai))
 
 **Current** activity
-- 🔭 I’m currently working on [Kuoly](https://github.com/CakeCrusher/kuoly-client)
-- 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on ambitious projects within the space industry, autonomous driving, and the metaverse
-- 💬 Ask me about software applications emerging industries
+- 🔭 I’m currently working on [CodeTribe](https://codetribe.com/)
+- 🌱 I’m currently learning [Deep Reinforcement Learning](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt)
+- 👯 I’m looking to collaborate on ambitious projects within the agri-tech, autonomous driving, ed-tech.
+- 💬 Ask me about AI integration in web development.
 
 
 <p align="center">
