@@ -8,8 +8,8 @@
 My preferred **tech stacks**, with work to match:
 - Database and backend : PostgresQL, Express, Flask, GraphQL ([Data-logger](https://github.com/CakeCrusher/data_logger-backend))
 - Web Development: React, Next.js, Apollo, Redux ([HexHiv](https://github.com/CakeCrusher/HexHiv))
-- Mobile Applications: React Native([GiveSpace](https://github.com/CakeCrusher/GiveSpace-app)
-- Browser Extensions: Chromium, DOM ([Tinking](https://github.com/CakeCrusher/tinking)
+- Mobile Applications: React Native([GiveSpace](https://github.com/CakeCrusher/GiveSpace-app))
+- Browser Extensions: Chromium, DOM ([Tinking](https://github.com/CakeCrusher/tinking))
 - DevOps: Docker, Github Actions, Jest ([Voon](https://github.com/CakeCrusher/voon-video_processing))
 - Cloud: AWS, GCP
 - AI/ML: PyTorch, HuggingFace ([Venato Obesity AI](https://github.com/CakeCrusher/Venato-ai))
