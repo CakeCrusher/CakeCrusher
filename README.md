@@ -15,7 +15,7 @@ My preferred **tech stacks**, with work to match:
 - AI/ML: PyTorch, HuggingFace ([Venato Obesity AI](https://github.com/CakeCrusher/Venato-ai))
 
 **Current** activity
-- 🔭 I’m currently working on [CodeTribe](https://codetribe.com/)
+- 🔭 I’m currently working on [OpenPlugin](https://github.com/CakeCrusher/openplugin)
 - 🌱 I’m currently learning [Deep Reinforcement Learning](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt)
 - 👯 I’m looking to collaborate on ambitious projects within the agri-tech, autonomous driving, ed-tech.
 - 💬 Ask me about AI integration in web development.
