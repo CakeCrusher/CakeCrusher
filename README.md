@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">A little about me</h2>
 
-<p><em>I am fully immersed in full stack software development with a passion for science, technology, and the extraordinary systems of the world. Specifically the space industry, autonomous driving, and the metaverse. I am also looking for a job 💼</em></p>
+<p><em>I am fully immersed generative AI. I am also looking for a job 💼</em></p>
 
 My preferred **tech stacks**, with work to match:
 - Database and backend : PostgresQL, Express, Flask, GraphQL ([Data-logger](https://github.com/CakeCrusher/data_logger-backend))
@@ -12,13 +12,14 @@ My preferred **tech stacks**, with work to match:
 - Browser Extensions: Chromium, DOM ([Tinking](https://github.com/CakeCrusher/tinking))
 - DevOps: Docker, Github Actions, Jest ([Voon](https://github.com/CakeCrusher/voon-video_processing))
 - Cloud: AWS, GCP
-- AI/ML: PyTorch, HuggingFace ([Venato Obesity AI](https://github.com/CakeCrusher/Venato-ai))
+- Gen. AI: ([OpenGPTs-platform](https://github.com/OpenGPTs-platform))
+- ML: PyTorch, HuggingFace ([Venato Obesity AI](https://github.com/CakeCrusher/Venato-ai))
 
 **Current** activity
-- 🔭 I’m currently working on [OpenPlugin](https://github.com/CakeCrusher/openplugin)
-- 🌱 I’m currently learning [Deep Reinforcement Learning](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt)
-- 👯 I’m looking to collaborate on ambitious projects within the agri-tech, autonomous driving, ed-tech.
-- 💬 Ask me about AI integration in web development.
+- 🔭 I’m currently working on [OpenGPTs-platform](https://github.com/OpenGPTs-platform)
+- 🌱 I’m currently learning [to read](https://www.theintrinsicperspective.com/p/how-to-teach-your-two-year-old-to?utm_source=post-email-title&publication_id=332996&post_id=140125339&utm_campaign=email-post-title&isFreemail=true&r=2rzznn&triedRedirect=true&utm_medium=email).
+- 👯 I’m looking to collaborate on generative AI standardization.
+- 💬 Ask me about generative AI integration.
 
 
 <p align="center">
