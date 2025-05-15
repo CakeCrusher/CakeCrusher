@@ -6,18 +6,18 @@
 <p><em>I am fully immersed generative AI. I am also looking for a job 💼</em></p>
 
 My preferred **tech stacks**, with work to match:
-- Database and backend : PostgresQL, Express, Flask, GraphQL ([Data-logger](https://github.com/CakeCrusher/data_logger-backend))
-- Web Development: React, Next.js, Apollo, Redux ([HexHiv](https://github.com/CakeCrusher/HexHiv))
+- Database and backend : PostgresQL, Neo4j, Express, Flask, GraphQL ([Data-logger](https://github.com/CakeCrusher/data_logger-backend))
+- Web Development: React, FastAPI, Next.js, Apollo, Redux ([openplugin.io](https://www.openplugin.io/) __no longer maintained__)
 - Mobile Applications: React Native([GiveSpace](https://github.com/CakeCrusher/GiveSpace-app))
-- Browser Extensions: Chromium, DOM ([Tinking](https://github.com/CakeCrusher/tinking))
-- DevOps: Docker, Github Actions, Jest ([Voon](https://github.com/CakeCrusher/voon-video_processing))
+- Browser Extensions: Chromium, DOM ([tech-int-cheat](https://github.com/CakeCrusher/tech-int-cheat))
+- DevOps: Docker, Backstage, Github Actions, Jest ([Voon](https://github.com/CakeCrusher/voon-video_processing))
 - Cloud: AWS, GCP
-- Gen. AI: ([OpenGPTs-platform](https://github.com/OpenGPTs-platform))
+- Gen. AI: OpenAI, Weaviate, Arize ([cultural_evolution](https://github.com/CakeCrusher/cultural_evolution))
 - ML: PyTorch, HuggingFace ([Venato Obesity AI](https://github.com/CakeCrusher/Venato-ai))
 
 **Current** activity
-- 🔭 I’m currently working on [OpenGPTs-platform](https://github.com/OpenGPTs-platform)
-- 🌱 I’m currently learning [to read](https://www.theintrinsicperspective.com/p/how-to-teach-your-two-year-old-to?utm_source=post-email-title&publication_id=332996&post_id=140125339&utm_campaign=email-post-title&isFreemail=true&r=2rzznn&triedRedirect=true&utm_medium=email).
+- 🔭 I’m currently contributing to: [Arize](https://github.com/Arize-ai)(Phoenix, Evaluations, Openinference), [A2A](https://github.com/google/A2A)
+- 🌱 I’m currently learning [Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations](https://www.masfoundations.org/mas.pdf).
 - 👯 I’m looking to collaborate on generative AI standardization.
 - 💬 Ask me about generative AI integration.
 
