@@ -7,13 +7,25 @@
 
 My preferred **tech stacks**, with work to match:
 - Database and backend : PostgresQL, Neo4j, Express, Flask, GraphQL ([Data-logger](https://github.com/CakeCrusher/data_logger-backend))
-- Web Development: React, FastAPI, Next.js, Apollo, Redux ([openplugin.io](https://www.openplugin.io/) __no longer maintained__)
+- Web Development: React, FastAPI, Next.js, Apollo, Redux ([openplugin.io](https://www.openplugin.io/))
+  ![image](https://github.com/user-attachments/assets/ab597886-2220-4c6e-80c1-98f6bfe856eb)
+
 - Mobile Applications: React Native([GiveSpace](https://github.com/CakeCrusher/GiveSpace-app))
+  ![image](https://github.com/user-attachments/assets/a3dc025c-e0d7-4741-8c18-7eb92133498e)
+
 - Browser Extensions: Chromium, DOM ([tech-int-cheat](https://github.com/CakeCrusher/tech-int-cheat))
+  ![image](https://github.com/user-attachments/assets/c02a0091-85cf-429a-8afa-11b1d7117bf2)
+
 - DevOps: Docker, Backstage, Github Actions, Jest ([Voon](https://github.com/CakeCrusher/voon-video_processing))
+  ![image](https://github.com/user-attachments/assets/d61d2607-50ae-4f94-a232-a7b8acc96b45)
+
 - Cloud: AWS, GCP
 - Gen. AI: OpenAI, Weaviate, Arize ([cultural_evolution](https://github.com/CakeCrusher/cultural_evolution))
+  ![image](https://github.com/user-attachments/assets/c12d6f24-0a1e-4e23-9c64-18018a9fe749)
+
 - ML: PyTorch, HuggingFace ([Venato Obesity AI](https://github.com/CakeCrusher/Venato-ai))
+  ![image](https://github.com/user-attachments/assets/26e6ebb5-0c9c-4364-aaad-77af27b2cd36)
+
 
 **Current** activity
 - 🔭 I’m currently contributing to: [Arize](https://github.com/Arize-ai)(Phoenix, Evaluations, Openinference), [A2A](https://github.com/google/A2A)
